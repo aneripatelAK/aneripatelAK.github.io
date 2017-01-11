@@ -52,4 +52,4 @@ input::-ms-clear {display: none;}
 .open > .dropdown-menu { z-index:1000;}
 .disNone{ display:none;}
 /* comman css end*/
-.sectionBox{ background:red;}
+.sectionBox{ background:green;}
